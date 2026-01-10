@@ -1,4 +1,5 @@
 # SAM3 Auto Annotator
+▶️ **[Tutorial video](https://youtu.be/7OUmLD2FzPE)**
 
 An image annotation tool integrated with SAM3 (Segment Anything Model 3) for semantic segmentation, object detection, and instance segmentation.
 

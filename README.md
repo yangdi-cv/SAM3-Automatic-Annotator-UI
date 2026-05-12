@@ -142,3 +142,14 @@ Annotations are saved in a JSON format compatible with LabelMe, extended with ad
 
 ## Acknowledgements
 We sincerely thank the [SAM3](https://ai.meta.com/sam3/) team for open-sourcing their work.
+
+## Citation
+```
+@inproceedings{indonav,
+    title={IndoNav: A Benchmark Dataset of Indonesian Pedestrian Scenes for Assistive Navigation of Vision-Impaired People},
+    author={Dien Rahmawati and Son Lam Phung and Hoang Thanh Le and Yang Di and Ly Bui and Husneni Mukhtar and Abdesselam Bouzerdoum},
+    booktitle={IEEE International Conference on Image Processing (ICIP)},
+    pages={1-6},
+    year={2026}
+}
+```
